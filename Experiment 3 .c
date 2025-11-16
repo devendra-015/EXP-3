@@ -1,9 +1,4 @@
-/*
-NAME:ASHAZ SHAKIR PATEL
-UIN:251M003
-CLASS:FE MECHANICAL
-DIV:FE
-*/
+
 
 #include <stdio.h>
 int main()
@@ -46,3 +41,4 @@ start:
 
 	return 0;
 }
+
